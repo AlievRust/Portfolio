@@ -1,6 +1,6 @@
-# Учебный проект №3<BR> "Исследование объявлений о продаже квартир"
+# Учебный проект №3<BR>Исследование объявлений о продаже квартир
 
-[HTML](https://github.com/AlievRust/Portfolio/blob/main/%D0%AF%D0%9F.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2003.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/project3_real_estate_advs_analysis.ipynb) | [PDF](https://github.com/AlievRust/Portfolio/blob/main/%D0%AF%D0%9F.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2003.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/project3_real_estate_advs_analysis.pdf)
+[IPYNB](https://github.com/AlievRust/Portfolio/blob/main/%D0%AF%D0%9F.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2003.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/project3_real_estate_advs_analysis.ipynb) | [PDF](https://github.com/AlievRust/Portfolio/blob/main/%D0%AF%D0%9F.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2003.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/project3_real_estate_advs_analysis.pdf)
 
 ## Описание
 
